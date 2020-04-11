@@ -1,0 +1,32 @@
+/** Proxima Nova **/
+
+
+
+@font-face {
+    font-family: 'maax_bold';
+    src: url('Sans-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'maax_medium';
+    src: url('Sans-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'maax_mono';
+    src: url('Sans-Mono.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'maax_regular';
+    src: url('Sans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
