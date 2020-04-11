@@ -137,6 +137,7 @@ function buscar(params){
       tipologias = [];
       $.each(info.info, function(key, value){
         if(parseFloat(value.latitud) == 0.0){
+          console.log("...");
         }else{
           // telefonos
           var telefono = value.telefono_1+" "+value.telefono_2+" "+value.telefono_3+" "+value.telefono_4+" "+value.telefono_5;
